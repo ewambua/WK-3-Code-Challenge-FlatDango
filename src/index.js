@@ -60,12 +60,12 @@ function renderMovieDetails(films){
 
 buyTicket.addEventListener("click", (event) => {
     const remainingTickets = document.querySelector("#ticket-num");
-    event.preventDefault
+    event.preventDefault()
     const tickets = remainingTickets.textContent.split(" ")[0];
     if (tickets > 0) {
-        remainingTickets.textContent = tickets - 1;
+        return remainingTickets.textContent = tickets - 1;
     }  else if (tickets === 0) {
-        buyTicket.textContent = 'Sold Out'
+        return buyTicket.textContent = 'Sold Out'
     }
 })
 
