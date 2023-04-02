@@ -46,7 +46,7 @@ D. Authors Info
 
 ### Licence
 
-[MIT License](https://github.com/ewambua/WK-3-Code-Challenge-FlatDango/blob/main/LICENCE)
+[MIT License](https://github.com/ewambua/WK-3-Code-Challenge-FlatDango/blob/main/LICENSE)
 
 
 ### Authors Info
