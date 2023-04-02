@@ -16,7 +16,7 @@ D. Authors Info
 
 ### Description:
 
-#### The Project consists of 3 programs.
+#### What the can do.
 
 ##### 1
 
