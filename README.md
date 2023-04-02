@@ -16,7 +16,7 @@ D. Authors Info
 
 ### Description:
 
-#### What the can do.
+#### What the user can do.
 
 ##### 1
 
