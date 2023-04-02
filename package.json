@@ -1,0 +1,23 @@
+{
+  "name": "wk-3-code-challenge-flatdango",
+  "version": "1.0.0",
+  "description": "## Emmanuel Mumo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewambua/WK-3-Code-Challenge-FlatDango.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewambua/WK-3-Code-Challenge-FlatDango/issues"
+  },
+  "homepage": "https://github.com/ewambua/WK-3-Code-Challenge-FlatDango#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
